@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/sample_hdmi.dir/sample_hdmi.c.o CMakeFiles/sample_hdmi.dir/hi_mpi_vo.c.o -o sample_hdmi   -L/usr/local/Ascend/ascend-toolkit/7.0.RC1/runtime/lib64/stub/aarch64  -L/usr/local/Ascend/ascend-toolkit/7.0.RC1/runtime/lib64  -lacl_vo_mpi -lacl_hdmi_mpi -lacl_dvpp_mpi 

@@ -1,0 +1,3 @@
+/opt/hdmi_gitee/build/CMakeFiles/sample_hdmi.dir
+/opt/hdmi_gitee/build/CMakeFiles/edit_cache.dir
+/opt/hdmi_gitee/build/CMakeFiles/rebuild_cache.dir
